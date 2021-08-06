@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.1.2
+
+### Patch Changes
+
+- Use the built-in `next` types for next-urql HOC return values, by [@JoviDeCroock](https://github.com/JoviDeCroock) (See [#1812](https://github.com/FormidableLabs/urql/pull/1812))
+
 ## 3.1.1
 
 ### Patch Changes
